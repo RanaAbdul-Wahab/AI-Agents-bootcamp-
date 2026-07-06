@@ -1,0 +1,14 @@
+[project]
+name = "ai-agents-bootcamp"
+version = "0.1.0"
+requires-python = ">=3.10.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "helium>=7.0.2",
+    "markdownify>=1.2.3",
+    "pillow>=12.3.0",
+    "python-dotenv>=1.2.2",
+    "requests>=2.34.2",
+    "selenium>=4.45.0",
+    "smolagents[litellm]>=1.26.0",
+]
